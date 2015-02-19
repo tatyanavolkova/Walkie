@@ -28,7 +28,9 @@ public class Walkie {
         
         System.out.print("try сервер!");
         
+        System.out.print("Hello, I am erin!");
+        
     }   
-    }
+   
     
 }
