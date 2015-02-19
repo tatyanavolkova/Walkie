@@ -16,8 +16,7 @@ public class Walkie {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Hello, I am Walkie!");
-        
+        System.out.print("Hello, I am Walkie!");    
         System.out.print("Hello from Tatyana!");
         System.out.print("Hello, I am jbenua!");
         
@@ -29,5 +28,6 @@ public class Walkie {
         System.out.print("try сервер!");
         System.out.print("hello from lena t!");
         
+        System.out.print("Hello from Rinaly.");
     }   
 }
