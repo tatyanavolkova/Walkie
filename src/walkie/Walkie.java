@@ -19,4 +19,13 @@ public class Walkie {
         System.out.print("Hello, I am Walkie!");
         System.out.print("Hello from Rinaly.");
     }
+        
+        System.out.print("Hello from Tatyana!");
+        System.out.print("Hello, I am jbenua!");
+        
+        System.out.print("CONFLICT!");
+        
+        System.out.print("Hello, I am Yunna!");
+        
+    }   
 }
