@@ -31,6 +31,8 @@ public class Walkie {
         System.out.print("Hello from Rinaly.");
         System.out.print("Hello, I am erin!");
         System.out.print("hello from aleksoider!");
+        System.out.print("hello from grinaram!");
+        
     }   
    
     
