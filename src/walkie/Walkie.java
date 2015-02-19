@@ -27,6 +27,7 @@ public class Walkie {
         System.out.print("try выталкивание!");
         
         System.out.print("try сервер!");
+        System.out.print("hello from lena t!");
         
     }   
 }
