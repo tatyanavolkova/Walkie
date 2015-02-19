@@ -33,6 +33,7 @@ public class Walkie {
         System.out.print("hello from aleksoider!");
         System.out.print("hello from grinaram!");
         System.out.print("\nHail's from NicolayStefanov.Praise the Sun!\n");
+        System.out.print("\nhello from Irina!\n");
         
         
     }   
