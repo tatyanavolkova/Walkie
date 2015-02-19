@@ -40,6 +40,7 @@ public class Walkie {
         System.out.print("\nhello from Irina!\n");
         
         System.out.println("Hello from left");
+        System.out.println("Is it left?");
     }   
    
     
