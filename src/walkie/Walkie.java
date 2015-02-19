@@ -23,6 +23,10 @@ public class Walkie {
         System.out.print("CONFLICT!");
         
         System.out.print("Hello, I am Yunna!");
+        System.out.print("try выталкивание!");
+        
+        System.out.print("try сервер!");
+        
         System.out.print("Hello from Rinaly.");
     }   
 }
