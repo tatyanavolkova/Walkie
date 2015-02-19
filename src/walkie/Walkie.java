@@ -40,7 +40,7 @@ public class Walkie {
         System.out.print("\nhello from Irina!\n");
         
         System.out.println("Hello from left");
- System.out.println("/n Big fat bird is sitting ona right branch");
+ System.out.println("\n Big fat bird is sitting ona right branch");
     }   
    
     
