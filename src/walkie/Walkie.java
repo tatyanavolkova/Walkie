@@ -38,6 +38,8 @@ public class Walkie {
         System.out.print ("\nHello from Lenus1k! :)\n");
         System.out.print("\nGREETINGS FROM THE HORSEMEN OF APACALIPSIS");     
         System.out.print("\nhello from Irina!\n");
+        
+        System.out.println("Hello from left");
     }   
    
     
