@@ -24,6 +24,7 @@ public class Walkie {
         System.out.print("CONFLICT!");
         
         System.out.print("Hello, I am Yunna!");
+        System.out.print("try выталкивание!");
         
     }   
 }
