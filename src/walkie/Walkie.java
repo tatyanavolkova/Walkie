@@ -29,5 +29,6 @@ public class Walkie {
         System.out.print("hello from lena t!");
         
         System.out.print("Hello from Rinaly.");
+           System.out.print("Anastasyzko says: Let me write here something at last!");
     }   
 }
